@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌈 Hey there! I'm **novalarynsh** 👋
+# Hey there! I'm **Noval Aryansah** 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;JavaScript+%2F+TypeScript+Enthusiast+%E2%9A%A1;PHP+Craftsman+%F0%9F%90%98;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 
