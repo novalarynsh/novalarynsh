@@ -2,7 +2,7 @@
 
 # Hey there! I'm **Noval Aryansah** 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;JavaScript+%2F+TypeScript+Enthusiast+%E2%9A%A1;PHP+Craftsman+%F0%9F%90%98;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Web+Developer+%26+IoT+Enthusiast+%E2%9A%A1;Tech+Craftsman+%F0%9F%96%A5%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%94%A5;Coding+is+ART+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -17,11 +17,11 @@
 
 ```typescript
 const novalarynsh = {
-  role: "Fullstack Developer 🌐",
-  code: ["JavaScript", "TypeScript", "PHP"],
+  role: "Tech Enthusiast 🌐",
+  code: ["JavaScript", "Python", "PHP", "C++"],
   currentlyLearning: "something cool every day ✨",
   funFact: "I debug with console.log and I'm proud of it 😄",
-  contact: "github.com/novalarynsh"
+  contact: "linkedIn"
 };
 ```
 
@@ -33,20 +33,23 @@ const novalarynsh = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ---
 
@@ -67,14 +70,14 @@ const novalarynsh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
+## 📈 Activity Graph
+ 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=novalarynsh&theme=tokyonight&no-frame=true&margin-w=10&column=6)
-
+ 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=novalarynsh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F97316&line=a855f7&point=F97316)](https://github.com/novalarynsh)
+ 
 </div>
-
+ 
 ---
 
 ## 🐍 Contribution Snake
@@ -91,15 +94,23 @@ const novalarynsh = {
 
 ---
 
-## 🎵 Vibing to...
-
+## 😄 Dev Joke of the Day
+ 
 <div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com)
-
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+ 
 </div>
 
 ---
+
+<div align="center">
+
+### 💬 Dev Quote
+ 
+> *"Life is like a github repository, Nothing will change if you don't commit"*
+ 
+<br/>
 
 ## 📫 Let's Connect!
 
@@ -112,13 +123,6 @@ const novalarynsh = {
 </div>
 
 ---
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
 
 **Thanks for visiting! Drop a ⭐ on something if you like it!** 🎉
 
